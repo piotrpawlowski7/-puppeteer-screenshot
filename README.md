@@ -1,6 +1,12 @@
 # puppeteer-screenshot-cli
 
 ## Tool for making screenshots of pwc.pl sites
+
+start with
+``
+npm i puppeteer
+```
+  
   
   
 Git clone:
@@ -12,6 +18,8 @@ go to the dir:
 ``
 cd puppeteer-screenshot-cli
 ``  
+
+
   
 Install globally:
 ``
