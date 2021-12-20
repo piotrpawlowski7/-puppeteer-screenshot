@@ -3,7 +3,7 @@
 ## Tool for making screenshots of pwc.pl sites
 
 start with
-``
+```
 npm i puppeteer
 ```
   
