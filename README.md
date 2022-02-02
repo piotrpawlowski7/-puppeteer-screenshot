@@ -1,6 +1,6 @@
 # puppeteer-screenshot-cli
 
-## Tool for making screenshots of pwc.pl sites
+## Tool for making screenshots of sites
 
 start with
 ```
